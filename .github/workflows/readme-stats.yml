@@ -28,7 +28,6 @@ jobs:
           options: >
             username=${{ github.repository_owner }}
             &show_icons=true
-            &custom_title=urin%27s%20GitHub%20Stats%F0%9F%8C%9F
             &hide=prs,issues,contribs
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -39,7 +38,6 @@ jobs:
           card: top-langs
           options: >
             username=${{ github.repository_owner }}
-            &hide_title=true
             &layout=compact
             &langs_count=6
             &hide=html,css
