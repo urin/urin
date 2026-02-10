@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a Software Engineer from Japan 🇯🇵, urin [ɯɾiɴ]
+# Hi there 👋 I'm a Software Engineer from Japan 🇯🇵
 
 💻 **IT Programmer | Problem Solver | Continuous Learner**
 
@@ -19,8 +19,8 @@ I enjoy designing, building, and refining software systems that are **clean, sca
 
 ## 🛠️ Tech Interests
 - **Programming**: Strong fundamentals, language-agnostic mindset  
-- **Software Design**: Clean Architecture, SOLID, readability-first code  
-- **Tooling**: Automation, developer experience, productivity hacks  
+- **Software Design**: KISS, Readability-first code  
+- **Tooling**: Developer experience, productivity hacks  
 
 ## ✨ Philosophy
 > **“Simple is not easy, but it is worth it.”**
