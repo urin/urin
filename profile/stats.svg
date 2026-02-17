@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">urin's GitHub Stats🌟, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 897, Total Commits  (last year) : 92, Total PRs: 4, Total Issues: 3</desc>
+        <desc id="descId">Total Stars Earned: 898, Total Commits  (last year) : 92, Total PRs: 4, Total Issues: 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 145.64524708094643;
+        stroke-dashoffset: 145.6405812361013;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >897</text>
+      >898</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
