@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&custom_title=urin%27s%20GitHub%20Stats%F0%9F%8C%9F&hide=contribs&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&custom_title=urin%27s%20GitHub%20Stats%F0%9F%8C%9F&hide=contribs&hide_border=true&hide=stars
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
